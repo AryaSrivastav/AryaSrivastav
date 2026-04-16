@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hi, I'm Arya Srivastav
 
-<!--
-**AryaSrivastav/AryaSrivastav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BTech Computer Science Student  
+💻 Frontend Developer | AI Enthusiast  
+🚀 Building real-world projects  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Skills
+- React.js
+- JavaScript
+- HTML / CSS 
+- DSA
+
+---
+
+## 🚀 Projects
+
+### 🧬 AI Health Predictor
+- Multi-user health tracking system  
+- Disease prediction using symptoms  
+- PDF health reports  
+- Dashboard with charts  
+- Dark/Light mode  
+
+---
+
+## 📈 Currently Learning
+- Advance Data Structures & Algorithms  
+- Backend Development  
+- Machine Learning Basics  
+
+---
+
+## 🌐 Connect with me
+- Email: srivastavarya04@gmail.com
